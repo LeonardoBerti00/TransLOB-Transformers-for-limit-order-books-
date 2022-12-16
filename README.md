@@ -1,1 +1,1 @@
-# TransLOB---Transformers-for-limit-order-books-
+# TransLOB-Transformers for limit order books
